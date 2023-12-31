@@ -1,0 +1,1 @@
+A python script to calculate the free-stream velocity, pressure, temperature, dynamic viscosity and unit Reynolds number for wind tunnel given stagnation temperature and pressure, free-stream Mach number and fluid properties.
