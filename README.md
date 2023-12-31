@@ -1,7 +1,9 @@
-**idealgascalculations.py: 
+**idealgascalculations.py:**
+
 A python script to calculate the free-stream velocity, pressure, temperature, dynamic viscosity and unit Reynolds number for wind tunnel given stagnation temperature and pressure, free-stream Mach number and fluid properties.
 
-**recoveryTemp.py:
+**recoveryTemp.py:**
+
 A python script to plot recovery temperature with Mach number.
 
 $$\frac{T_i}{T_0} = \frac{1+r\frac{\gamma-1}{2}M^2}{1+\frac{\gamma-1}{2}M^2}$$
